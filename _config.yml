@@ -1,0 +1,11 @@
+title: cryptic SEPIA
+email: stefano.miccoli@polimi.it
+description: cryptic SEPIA home-page
+
+# Build settings
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
