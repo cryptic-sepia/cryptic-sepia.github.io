@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# work in progress
+Cryptic SEPIA is going to sleep, for now.
 
 
 ![Image of a
