@@ -6,7 +6,7 @@ Cryptic SEPIA is going to sleep, for now.
 
 
 ![Image of a
-squid](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Squid_komodo.jpg/450px-Squid_komodo.jpg)
+squid](/assets/images/squid-komodo.jpg)
 
 Image by [Nhobgood](https://commons.wikimedia.org/wiki/User:Nhobgood)
 via [Wikimedia
